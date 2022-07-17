@@ -8,8 +8,15 @@
 * [GitHub](https://github.com/baiyang-lzy)
 * [Telegram](https://t.me/baiyang_lzy)
 * [Matrix](https://matrix.to/#/@baiyang-lzy:matrix.org)
+* [知乎](https://www.zhihu.com/people/popcorn17)
+* [bilibili](https://space.bilibili.com/13850573)
+* [Bangumi](https://bangumi.tv/user/bdtbbylzy)
+* [网易云音乐](https://music.163.com/#/user/home?id=101548260)
 * QQ：baiyanglzy
 * QQ 群：983538695 （群名：香子兰）
+
+你也可以到我的博客看看我写的文章，或者和我交换友链：
+* [白羊李志远のBlog](https://nekomoe.xyz/)
 
 ## 电子邮件
 
