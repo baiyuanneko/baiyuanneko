@@ -11,7 +11,7 @@
   <ul>
     <li><a href="https://twitter.com/baiyuanneko">Twitter</a></li>
     <li><a href="https://github.com/baiyang-lzy">GitHub</a></li>
-    <li><a href="https://t.me/baiyang_lzy">Telegram</a></li>
+    <li><a href="https://t.me/baiyuanneko">Telegram</a></li>
     <li><a href="https://matrix.to/#/@baiyang-lzy:matrix.org">Matrix</a></li>
     <li><a href="https://www.zhihu.com/people/popcorn17">知乎</a></li>
     <li><a href="https://space.bilibili.com/13850573">bilibili</a></li>
@@ -24,7 +24,7 @@
 <details>
 <summary> 博客 </summary> 
   <ul>
-    <li><a href="https://nekomoe.xyz/">白羊李志远のBlog</a></li>
+    <li><a href="https://nekomoe.xyz/">柏园猫のBlog</a></li>
   </ul>
 </details>
 
