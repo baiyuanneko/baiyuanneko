@@ -10,13 +10,14 @@
 <summary> 社交网络 </summary> 
   <ul>
     <li><a href="https://twitter.com/baiyuanneko">Twitter</a></li>
-    <li><a href="https://github.com/baiyang-lzy">GitHub</a></li>
+    <li><a href="https://github.com/baiyuanneko">GitHub</a></li>
     <li><a href="https://t.me/baiyuanneko">Telegram</a></li>
     <li><a href="https://matrix.to/#/@baiyang-lzy:matrix.org">Matrix</a></li>
     <li><a href="https://www.zhihu.com/people/popcorn17">知乎</a></li>
     <li><a href="https://space.bilibili.com/13850573">bilibili</a></li>
     <li><a href="https://bangumi.tv/user/bdtbbylzy">Bangumi</a></li>
     <li><a href="https://music.163.com/#/user/home?id=101548260">网易云音乐</a></li>
+    <li><a href="https://m.cmx.im/@baiyang_lzy">Mastodon </a></li>
     <li>QQ：baiyuaneko</li>
     <li>QQ 群：983538695 （群名：香子兰）</li>
   </ul>
