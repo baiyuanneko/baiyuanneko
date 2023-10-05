@@ -1,53 +1,13 @@
-## 关于我
+## About me
 
-<details>
-<summary> 香子兰爱好者 </summary> 
-  <ul>
-    <li><i>"If we really love you then even if it's troublesome we want to be with you, that is a reason to want to be with you."</i></li>
-  </ul>
-</details>
-<details>
-<summary> 社交网络 </summary> 
-  <ul>
-    <li><a href="https://twitter.com/baiyuanneko">Twitter</a></li>
-    <li><a href="https://github.com/baiyuanneko">GitHub</a></li>
-    <li><a href="https://t.me/baiyuanneko">Telegram</a></li>
-    <li><a href="https://www.zhihu.com/people/popcorn17">知乎</a></li>
-    <li><a href="https://space.bilibili.com/13850573">bilibili</a></li>
-    <li><a href="https://bangumi.tv/user/bdtbbylzy">Bangumi</a></li>
-    <li><a href="https://music.163.com/#/user/home?id=101548260">网易云音乐</a></li>
-    <li><a href="https://m.cmx.im/@baiyang_lzy">Mastodon</a></li>
-    <li>QQ：baiyuaneko</li>
-    <li>QQ 群：983538695 （群名：香子兰）</li>
-  </ul>
-</details>
-<details>
-<summary> 博客 </summary> 
-  <ul>
-    <li><a href="https://nekomoe.xyz/">柏园猫のBlog</a></li>
-  </ul>
-</details>
+### You can contact me at ...
+* [Twitter](https://twitter.com/baiyuanneko)
+* [GitHub](https://github.com/baiyuanneko)
+* [Telegram](https://t.me/baiyuanneko)
+* [Bangumi](https://bangumi.tv/user/bdtbbylzy)
 
-<details>
-<summary> Special Thanks / 特别感谢 </summary> 
-  <ul>
-    <li><b><a href="https://github.com/Misaka13514">欠陥電気 𝑹𝒂𝒅𝒊𝒐𝑵𝒐𝒊𝒔𝒆 ⚝</a></b></li>
-  </ul>
-</details>
+### PGP Public Key
+* <https://keys.openpgp.org/vks/v1/by-fingerprint/5B31AE9B3B7421EE851878BC12FC7165238A4CB1>
 
----
-
-<details>
-<summary> 电子邮件 </summary>
-  <ul>
-    <li><a href="mailto:i@nekomoe.xyz">i@nekomoe.xyz</a></li>
-  </ul>
-</details>
-
-<details>
-<summary> PGP 公钥 </summary> 
-  <ul>
-    <li>我将 PGP 公钥上传到了 <code>keys.openpgp.org</code> 服务器，所以你可以 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B31AE9B3B7421EE851878BC12FC7165238A4CB1">点击这里下载我的 PGP 公钥</a></li>
-    <li>其指纹是<code>5B31 AE9B 3B74 21EE 8518 78BC 12FC 7165 238A 4CB1</code></li>
-  </ul>
-</details>
+### Special Thanks
+* Special Thanks to [欠陥電気 𝑹𝒂𝒅𝒊𝒐𝑵𝒐𝒊𝒔𝒆 ⚝](https://github.com/Misaka13514).
